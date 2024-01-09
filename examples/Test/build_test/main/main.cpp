@@ -1,3 +1,5 @@
+#include<arduino.h>
+
 #if !defined LGFX_AUTODETECT
   #define LGFX_AUTODETECT
 #endif
